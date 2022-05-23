@@ -1,0 +1,25 @@
+
+.content{
+	margin: auto;
+	width: 70%;
+	
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+	margin-top:1.5em;
+
+}
+h1{
+	font-size:2em;
+}
+table,th,tr,td,caption{
+	border: 1px solid black;
+}
+figcaption{
+	font-family: cursive;
+}
+figure{
+	
+	float: right;
+}
